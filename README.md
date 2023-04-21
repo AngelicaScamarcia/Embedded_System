@@ -1,3 +1,3 @@
 # Embedded_System
 
-Assignment of Embedded System course 
+Assignments of Embedded System course 
